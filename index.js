@@ -6,10 +6,10 @@ app.get('/', (req, res) => {
     res.send('Hello World!');
 });
 
-app.get('/song', (req, res) => {
+app.get('/album', (req, res) => {
     res.json({
         name: "Javier Alejandro Avila Flores",
-        favoriteSong: "2024 by playboi carti",
+        favoriteAlbum: "Die Lit by playboi carti",
     });
 });
 
