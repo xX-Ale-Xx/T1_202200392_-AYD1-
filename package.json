@@ -1,0 +1,15 @@
+{
+  "name": "-AYD_1-T1_202200392",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xX-Ale-Xx/-AYD_1-T1_202200392.git",
+  "author": "Javier Avila <floresjavier092@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
